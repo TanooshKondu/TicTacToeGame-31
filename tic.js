@@ -62,5 +62,3 @@ function fnreset() {
     event(true)
 }
 /////
-/////
-///
