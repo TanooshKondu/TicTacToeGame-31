@@ -65,5 +65,4 @@ function fnreset() {
 /////
 ////
 ///ft yfkuyg vkufy dkkcytkj
-///fy ytfukjmguliukfykgmh vnhk.bm 
-//jthfukjmkyuctythnjyik6j5shtrghnyvh.i7ruxctnvybju
+///fy ytfukjmguliukfykgmh vnhk.bm
