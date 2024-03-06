@@ -62,4 +62,3 @@ function fnreset() {
     event(true)
 }
 // ygk iubilgb; lgu;ub;l
-// ykvj lujy bligub ;i b;
