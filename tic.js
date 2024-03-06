@@ -61,3 +61,6 @@ function fnreset() {
     arr = new Array(9).fill(null)
     event(true)
 }
+// ygk iubilgb; lgu;ub;l
+// ykvj lujy bligub ;i b;
+// u bib;iu b;iub ;kliub i;k
