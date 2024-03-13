@@ -78,15 +78,4 @@ function fnreset() {
 //    background: #D3E2EA;
 //    border-radius: 20px;
 //    border: 1px solid #0D152B;
-//    box-shadow: -10px 5px 0px -2px #192852;
-//    display: grid;
-//    grid-template-rows: repeat(3, 1fr);
-//    grid-template-columns: repeat(3, 1fr);
-//    grid-gap: 8px;
-//    padding: 12px;
-//}
-//
-//.board > span {
-//    background: #76AFD6;
-//    color: #fff;
-//    font-size: 4em;
+
