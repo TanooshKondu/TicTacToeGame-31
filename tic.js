@@ -90,18 +90,3 @@ function fnreset() {
 //    background: #76AFD6;
 //    color: #fff;
 //    font-size: 4em;
-//    padding-left: 9px;
-//    padding-top: 6px;
-//    text-align: center;
-//    border: 2px solid #0D152B;
-//    border-radius: 5px;
-//    cursor: pointer;
-//    transition: all 0.2s ease;
-//    box-shadow: -1.2px 2px 0px 0px #141D4C;
-//}
-//.board > span:hover {
-//    background: #6aa8d2;
-//}
-//.board > span:active {
-//    box-shadow: -1.2px 7.4px 0px -2.5px #141D4C;
-//}
