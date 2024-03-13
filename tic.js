@@ -65,17 +65,4 @@ function fnreset() {
 //.tabel {
 //    width: 480px;
 //    height: 480px;
-//    background: #76AFD6;
-//    border-radius: 100%;
-//    border: 1px solid #0D152B;
-//    box-shadow: -2px 20px 0 -3px #4283C4, -20px 20px #0D152B;
-//    flex-direction: column;
-//}
-//
-//.board {
-//    width: 369.2307692308px;
-//    height: 369.2307692308px;
-//    background: #D3E2EA;
-//    border-radius: 20px;
-//    border: 1px solid #0D152B;
 
