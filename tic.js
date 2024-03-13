@@ -61,8 +61,3 @@ function fnreset() {
     arr = new Array(9).fill(null)
     event(true)
 }
-//
-//.tabel {
-//    width: 480px;
-//    height: 480px;
-
