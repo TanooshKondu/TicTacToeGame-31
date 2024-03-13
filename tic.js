@@ -105,12 +105,3 @@ function fnreset() {
 //.board > span:active {
 //    box-shadow: -1.2px 7.4px 0px -2.5px #141D4C;
 //}
-//
-//#reset {
-//    margin-top: 14px;
-//    color: #fff;
-//}
-//
-//.win {
-//    background: #55efc4 !important;
-//}
