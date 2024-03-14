@@ -74,8 +74,3 @@ function fnreset() {
 //        <button id="reset">Reset</button>
 //    </div>
 //</div>
-//<script  src="tic.js"></script>
-//
-//</body>
-//</html>
-//
