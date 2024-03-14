@@ -62,9 +62,3 @@ function fnreset() {
     event(true)
 }
 
-//<title>Tic Tac Toe Game</title>
-//<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
-//<link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/1.0.2/tailwind.min.css'>
-//<link rel="stylesheet" href="tic.css">
-//
-//<title>Tic Tac Toe Game</title>
