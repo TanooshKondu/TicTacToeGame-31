@@ -243,14 +243,3 @@ function fnreset() {
 //function cmp(a, b, c) {
 //    if(a && b && c)
 //    return (a === b) && (a === c) && (b === c)
-//}
-//
-//function fnreset() {
-//    for(let col of cols){
-//        col.classList.remove('win')
-//        col.innerHTML = ''
-//    }
-//    arr = new Array(9).fill(null)
-//    event(true)
-//}
-//
