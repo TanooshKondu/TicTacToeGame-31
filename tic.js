@@ -139,37 +139,3 @@ function fnreset() {
 //    [6, 7, 8],
 //    [0, 3, 6],
 //    [1, 4, 7],
-//    [2, 5, 8],
-//    [0, 4, 8],
-//    [2, 4, 6]
-//]
-//function event(can) {
-//	reset.addEventListener('click', fnreset)
-//    for(let col of cols)
-//    if(can)
-//    col.addEventListener('click', play)
-//    else
-//    col.removeEventListener('click', play)
-//}
-//event(true)
-//function play(e) {
-//    const __ = e.target
-//    if(!__.innerHTML){
-//    cur = !cur
-//    __.innerHTML = cur ? '<h1 name="O">O</h1>' :  '<h1 name="X">X</h1>'
-//    move(parseInt(__.id.split(/\D+/g)[1]), __.childNodes[0].getAttribute('name'))
-//}
-//}
-//
-//function move(ind, sign) {
-//    arr[ind] = sign
-//    console.log(arr)
-//
-//for (let i = 0; i < wins.length; i++) {
-//    let [a, b, c] = wins[i] 
-//    if(cmp(arr[a], arr[b], arr[c])){
-//        console.log(sign, ' wins')
-//        event(false)
-//        cols[a].classList.add('win')
-//        cols[b].classList.add('win')
-
