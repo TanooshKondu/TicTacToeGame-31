@@ -68,5 +68,4 @@ function fnreset() {
 ///
 ///
 //kjbio ih olbi
-//ouho nopihno pboih ono ln//
-//hou hiuhbilkbilb uil
+//ouho nopihno pboih ono l
