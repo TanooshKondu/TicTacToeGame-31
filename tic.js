@@ -67,5 +67,4 @@ function fnreset() {
 //
 ///
 ///
-//kjbio ih olbi
-//ouho nopihno pboih ono l
+//kjbio ih o
