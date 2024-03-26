@@ -66,5 +66,3 @@ function fnreset() {
 //
 //
 ///
-///
-//kjbio ih o
